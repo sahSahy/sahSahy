@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Aýterek E-commerce web application;<br>💪 I have confidence about my Front-End skills, especially CSS, Javascript, React.js(about 2 years);<br>🌱 I’m currently learning Back-End.Trying to be a fullstack developer;<br>💬 Ask me about anything but not  💸 (　＾▽＾)<br>⚡ Fun fact : my weirdest secret hobby 🎤  Beatboxing 😅;
-
+🔭 I’m currently working on E-commerce web application;<br>💪 I have confidence about my Front-End skills, especially CSS, Javascript, React.js(about 2 years);<br>🌱 I’m currently learning Back-End.Trying to be a fullstack developer;<br>💬 Ask me about anything but not  💸 (　＾▽＾)<br>⚡
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guvanchmyrad_off) 
